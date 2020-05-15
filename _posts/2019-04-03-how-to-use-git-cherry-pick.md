@@ -1,10 +1,10 @@
 ---
-layout: posts
 title: "git cherry-pick 사용법"
 date: 2019-04-03 19:49:35 +0900
 tags: [git]
 comments: true
 ---
+
 ### 1. GIT cherry-pick 사용방법
 
 #### (1) cherry-pick?
@@ -14,15 +14,14 @@ comments: true
 
 #### (2) 사용방법
 
-```sh
+``` sh
 git cherry-pick <commit-id>
 ```
-
 
 #### (3) 충돌이 나는 경우
 
 당연히 충돌이 발생할 수 있으며 충돌이 난 경우 충돌 해결 후 다음 명령어를 실행한다.
 
-```sh
+``` sh
 git cherry-pick --continue
 ```

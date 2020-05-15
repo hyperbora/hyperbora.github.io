@@ -1,16 +1,15 @@
 ---
-layout: posts
 title: "열려있는 SSH 세션에서 터널 생성하기"
 date: 2020-01-08 20:11:05 +0900
 tags: [ssh]
 comments: true
 ---
+
 ### 1. 열려있는 SSH 세션에서 터널 생성하기
 
 #### 터널생성을 위해 새로운 세션을 열어도 가능하지만 현재 세션에서도 생성이 가능합니다.
 
-
-```sh
+``` sh
 Supported escape sequences:
  ~.   - terminate connection (and any multiplexed sessions)
  ~B   - send a BREAK to the remote system
@@ -24,7 +23,6 @@ Supported escape sequences:
  ~~   - send the escape character by typing it twice
 (Note that escapes are only recognized immediately after newline.)
 ```
-
 
 1. 엔터를 입력해서 터미널 입력 버퍼를 초기화 합니다.
 1. **~?** 를 입력해서 사용가능한 명령어를 확인합니다._**(Supported escape sequences)**_

@@ -1,10 +1,10 @@
 ---
-layout: posts
 title: "winscp를 이용한 특정 폴더 동기화"
 date: 2020-01-06 14:01:01 +0900
 tags: [winscp]
 comments: true
 ---
+
 ### 1. winscp를 이용한 특정 폴더 동기화
 
 #### (1) winscp로 scp를 통해 파일을 동기화 하는 예시입니다.
@@ -17,7 +17,7 @@ comments: true
 * server_path : 파일을 가져올 서버 경로
 * filemask : 특정 파일을 포함하거나, 제외할 경우 추가
 
-```sh
+``` sh
 @echo off
 
 "WinSCP_path" ^
