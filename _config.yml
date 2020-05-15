@@ -92,9 +92,9 @@ analytics:
 
 # Site Author
 author:
-  name: 'Your Name'
+  name: 'Hyperbora'
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: 'I am an **amazing** person.'
+  bio: 'blog for **dev**'
   location: 'Somewhere'
   email:
   links:
