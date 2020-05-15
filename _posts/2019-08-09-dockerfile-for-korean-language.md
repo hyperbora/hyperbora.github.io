@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Ubuntu 도커 환경에서 한글이 제대로 안나올 때 해결방법"
 date: 2019-08-09 21:45:51 +0900
 tags: [docker]

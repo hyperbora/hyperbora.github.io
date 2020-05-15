@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "winscp를 이용한 특정 폴더 동기화"
 date: 2020-01-06 14:01:01 +0900
 tags: [winscp]

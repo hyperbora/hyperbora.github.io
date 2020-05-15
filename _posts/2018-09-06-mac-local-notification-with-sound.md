@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "macOS에서 쉘 명렁어로 알림을 띄우는 방법"
 date: 2018-09-06 22:52:06 +0900
 tags: [macOS, noti, osascript]

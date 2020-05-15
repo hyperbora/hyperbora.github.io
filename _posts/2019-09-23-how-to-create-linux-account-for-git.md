@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "git push, fetch 전용 리눅스 계정 만들기"
 date: 2019-09-23 21:22:05 +0900
 tags: [git]

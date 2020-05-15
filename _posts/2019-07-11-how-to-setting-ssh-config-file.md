@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "SSH 연결을 IP혹은 도메인 별로 설정하는 방법"
 date: 2019-07-11 11:33:00 +0900
 tags: [SSH]

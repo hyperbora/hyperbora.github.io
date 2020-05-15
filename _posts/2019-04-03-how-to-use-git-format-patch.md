@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "GIT 패치 파일 만들고 적용하는 방법"
 date: 2019-04-03 11:31:24 +0900
 tags: [git]

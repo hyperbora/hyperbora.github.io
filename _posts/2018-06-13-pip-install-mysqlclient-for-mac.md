@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "macOS에서 pip3 install mysqlclient 에러 대처법"
 date: 2018-06-13 19:12:52 +0900
 tags: [python, pip, mysql]

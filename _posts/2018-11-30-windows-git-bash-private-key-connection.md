@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Windows용 git bash에서 SSH 개인키를 이용한 접속이 안되는 경우 해결책"
 date: 2018-11-30 15:22:36 +0900
 tags: [OS, ssh, openssh]

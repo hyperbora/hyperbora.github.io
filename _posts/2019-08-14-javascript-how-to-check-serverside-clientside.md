@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Javascript에서 서버 사이드, 클라이언트 사이드 구분하는 방법"
 date: 2019-08-14 11:12:21 +0900
 tags: [javascript]

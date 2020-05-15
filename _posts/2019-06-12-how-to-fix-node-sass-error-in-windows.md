@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Windows 환경에서 node-sass 설치 관련해서 오류나는 경우 해결책"
 date: 2019-06-12 17:46:00 +0900
 tags: [npm]

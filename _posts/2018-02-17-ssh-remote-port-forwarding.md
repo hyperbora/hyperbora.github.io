@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "SSH Port Forwarding (2)"
 date: 2018-02-17 17:22:31 +0900
 tags: [OS, ssh, forwarding]

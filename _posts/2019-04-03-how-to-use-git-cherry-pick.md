@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "git cherry-pick 사용법"
 date: 2019-04-03 19:49:35 +0900
 tags: [git]

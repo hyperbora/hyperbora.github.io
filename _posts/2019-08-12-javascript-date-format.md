@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Javascript에서 날짜 형식 지정해서 출력"
 date: 2019-08-12 15:49:36 +0900
 tags: [javascript]

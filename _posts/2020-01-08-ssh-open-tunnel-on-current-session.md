@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "열려있는 SSH 세션에서 터널 생성하기"
 date: 2020-01-08 20:11:05 +0900
 tags: [ssh]
