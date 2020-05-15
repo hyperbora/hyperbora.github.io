@@ -20,7 +20,7 @@ title: "blog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Hyperbora"
-description: "dev blog"
+description: "linux, js, python and more"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "hyperbora/hyperbora.github.io"
@@ -94,8 +94,8 @@ analytics:
 author:
   name: "Hyperbora"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "blog for **dev**"
-  location: "Somewhere"
+  bio: "Full Stack Developer(java, js, linux, python, and **more**)"
+  location: "South Korea"
   email:
   links:
     - label: "Email"
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/hyperbora"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -131,7 +131,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/hyperbora"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
