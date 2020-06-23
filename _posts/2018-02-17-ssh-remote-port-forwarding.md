@@ -1,5 +1,5 @@
 ---
-title: "SSH Port Forwarding (2)"
+title: 'SSH Port Forwarding'
 date: 2018-02-17 17:22:31 +0900
 tags: [OS, ssh, forwarding]
 comments: true
@@ -15,7 +15,7 @@ Local Port Forwarding과는 상황이 다르다. Remote Port Forwarding은 SSH �
 
 다음 명령어는 Remote Port Forwarding을 사용하는 하나의 예제이다.
 
-``` sh
+```sh
 ssh -R *:13389:localhost:3389 ssh_user_id@ssh_server_ip
 ```
 
